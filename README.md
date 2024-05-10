@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **shripadkulkarni2212@gmail.com**
 
-- ⚡ Fun fact **Easy Going!**
+- ⚡ Fun fact **I'm Easy Going!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
