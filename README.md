@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Data Analysis Projects**
 
-- 👨‍💻 All of my projects are available at [https://dev-datatricks.pantheonsite.io/](https://dev-datatricks.pantheonsite.io/)
+- 👨‍💻 All of my projects are available at https://shripadk1999.github.io/
 
 - 💬 Ask me about **Power BI | SQL | Python | Excel | Data**
 
@@ -19,6 +19,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/shripad-kulkarni-candoit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shripad-kulkarni-candoit" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/shripadkulkarni8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shripadkulkarni8" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
