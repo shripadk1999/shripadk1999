@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Data Analysis Projects**
 
-- 👨‍💻 All of my projects are available at https://shripadk1999.github.io/
+- 👨‍💻 All of my projects are available at[ https://shripadk1999.github.io/](https://github.com/shripadk1999?tab=repositories)
 
 - 💬 Ask me about **Power BI | SQL | Python | Excel | Data**
 
